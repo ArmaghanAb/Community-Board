@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![] ("https://github.com/ArmaghanAb/Community-Board/blob/master/src/assets/Walkthrough.gif)
+[Video Walkthrough](https://github.com/ArmaghanAb/Community-Board/blob/master/src/assets/Walkthrough.gif)
 
 GIF created with [ScreenToGif](https://www.screentogif.com/)
 
