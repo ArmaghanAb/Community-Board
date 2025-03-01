@@ -27,9 +27,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[Walkthrough Gif](https://i.imgur.com/74FCRw9.gif) <img src="./assets/walkthrough.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
+![] ("https://github.com/ArmaghanAb/Community-Board/blob/master/src/assets/Walkthrough.gif)
 
-GIF created with [ScreenToGif](https://www.screentogif.com)
+GIF created with [ScreenToGif](https://www.screentogif.com/)
+
 
 ## Notes
 
