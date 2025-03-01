@@ -27,8 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[Video Walkthrough](https://github.com/ArmaghanAb/Community-Board/blob/master/src/assets/Walkthrough.gif)
-[Video Walkthrough](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmU0ZnNsMWRzcjBpbDE0cG9xemNzM2NkenZpdHhxMWowOWltdzF2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KT4x7nPPgfRW3lSPp9/giphy.gif)
+- [Video Walkthrough](https://github.com/ArmaghanAb/Community-Board/blob/master/src/assets/Walkthrough.gif)
+- [Video Walkthrough (Giphy website)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmU0ZnNsMWRzcjBpbDE0cG9xemNzM2NkenZpdHhxMWowOWltdzF2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KT4x7nPPgfRW3lSPp9/giphy.gif)
 
 GIF created with [ScreenToGif](https://www.screentogif.com/)
 
