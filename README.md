@@ -4,7 +4,7 @@ Submitted by: **Armaghan Abtahi**
 
 This web app is a digital hub designed to provide resources, support, and guidance for mental well-being. Whether you're looking for meditation tools, therapy platforms, emotional support communities, or educational resources, this space connects you to trusted mental health services to help you navigate life’s challenges.
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="./assets/Walkthrough.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
+<img src="[./assets/Walkthrough.gif](https://i.imgur.com/7bhDQ8l.gif)" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
