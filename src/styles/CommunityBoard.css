@@ -1,0 +1,11 @@
+.community-board {
+    display: flex; 
+    flex-wrap: wrap; /* Allows items to move to the next line when needed */
+    justify-content: center; /* Centers the cards evenly */
+    gap: 20px;
+    padding: 20px;
+    background-color: #f0f8ff;
+    max-width: 1300px;
+    margin: auto;
+  }
+  
